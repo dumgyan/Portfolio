@@ -1,0 +1,103 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styling of the about page in the home component*/
+
+/* .wrapper {
+  padding-left: 10rem;
+} */
+
+span {
+  color: rgba(113, 38, 225, 0.889);
+}
+
+.wrap-about i{
+    text-decoration: underline;
+    text-decoration-color: rgba(66, 38, 225, 0.568);
+    text-decoration-style: dotted;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 7px;
+
+}
+
+i {
+    color: rgba(253, 135, 0, 0.646);
+    margin-left: 4px;
+}
+
+strong {
+    background-color: rgb(250, 247, 247);
+    color: rgb(0, 0, 0);
+    border-radius: 6px;
+    padding: 3px 7px;
+    margin-left: 2px;
+}
+
+.duration {
+    font-size: small;
+    color: rgba(119, 81, 132, 0.87);
+}
+.block {
+  font-size: 20px;
+}
+
+.typewriter{
+  color: gray !important;
+}
+
+
+/* .containa {
+    display: inline-block;
+}
+
+.texty {
+  font-family: monospace;
+  border-right: 5px solid;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: typing 2s steps(18), cursor .4s step-end infinite alternate;
+}
+
+@keyframes cursor {
+  50% { border-color: transparent };
+}
+
+@keyframes typing {
+  from { width: 0 }
+} */
+
+
+
+
+/* ::placeholder {
+  color: rgba(255, 255, 255, 0.576) !important;
+} */
+
+
+/* .background {
+  background-image: url('images/ct6.jpg');
+  background-repeat: no-repeat;
+  background-position: 100%;
+  background-size: cover;
+  height: 60vh;
+  width: auto;
+}
+
+.contact {
+  background-image: url('images/ct5.jpg');
+  background-repeat: no-repeat;
+  background-position: 100%;
+  background-size: contain;
+  height: 100vh;
+  width: auto;
+} */
+
+/* .section {
+  background-color: rgba(35, 35, 51, 0.575) !important;
+    background-position: 100%;
+    background-size: cover;
+} */
+
+/* https://www.training.com.au/wp-content/uploads/technologist-400px-transparent-02.png */

@@ -1,0 +1,222 @@
+{
+    "projects": [
+        {
+            "id": "2",
+            "name": "Sign-Up",
+            "description": "A sign-up page of a game website",
+            "image": "/newImages/00.png"
+        },
+        {
+            "id": "2",
+            "name": "Chats UI",
+            "description": "A chat UI of a health app",
+            "image": "/newImages/01.png"
+        },
+        {
+            "id": "2",
+            "name": "Landing page",
+            "description": "Luxury, fragrance showcase",
+            "image": "/newImages/03.png"
+        },
+        {
+            "id": "2",
+            "name": "Perfume Brands",
+            "description": "Chic perfume brand showcase",
+            "image": "/newImages/04.png"
+        },
+        {
+            "id": "2",
+            "name": "Product page",
+            "description": "Sleek, user-friendly perfume catalog.",
+            "image": "/newImages/05.png"
+        },
+        {
+            "id": "2",
+            "name": "Pop-up Overlay",
+            "description": "Elegant, intuitive coupon overlay.",
+            "image": "/newImages/06.png"
+        },
+        {
+            "id": "2",
+            "name": "Fog Glasses",
+            "description": "Clear, stylish fog glasses showcase",
+            "image": "/newImages/07.png"
+        },
+        {
+            "id": "2",
+            "name": "Headset hub",
+            "description": "Stylish, user-friendly headset hub.",
+            "image": "/newImages/08.png"
+        },
+        {
+            "id": "2",
+            "name": "Sleep tracker",
+            "description": "Intuitive sleep monitoring app interface.",
+            "image": "/newImages/09.png"
+        },
+        {
+            "id": "2",
+            "name": "Menu interface",
+            "description": "Convenient campus shuttle menu interface.",
+            "image": "/newImages/10.png"
+        },
+        {
+            "id": "2",
+            "name": "Route Map",
+            "description": "Interactive map for university shuttle routes.",
+            "image": "/newImages/11.png"
+        },
+        {
+            "id": "2",
+            "name": "Leaderboard interface",
+            "description": "Interactive leaderboard displaying top user rankings.",
+            "image": "/newImages/12.png"
+        },
+        {
+            "id": "2",
+            "name": "FAQ",
+            "description": "Helpful FAQ section for campus shuttle.",
+            "image": "/newImages/13.png"
+        },
+        {
+            "id": "2",
+            "name": "Add to Cart",
+            "description": "Simplified Add to Cart user interface design",
+            "image": "/newImages/14.png"
+        },
+        {
+            "id": "2",
+            "name": "Music player ",
+            "description": "Sleek, intuitive music player interface design.",
+            "image": "/newImages/15.png"
+        },
+        {
+            "id": "2",
+            "name": "Music player",
+            "description": "Modern, user-friendly music player app interface.",
+            "image": "/newImages/16.png"
+        },
+        {
+            "id": "2",
+            "name": "Dark Settings",
+            "description": "Clean and intuitive iOS settings interface.",
+            "image": "/newImages/17.png"
+        },
+        {
+            "id": "2",
+            "name": "Light Settings",
+            "description": "Clean and intuitive iOS settings interface.",
+            "image": "/newImages/18.png"
+        },
+        {
+            "id": "2",
+            "name": "Linkedin Bio",
+            "description": "Professional LinkedIn bio page desktop interface design.",
+            "image": "/newImages/19.jpeg"
+        },
+        {
+            "id": "2",
+            "name": "Linkedin Bio",
+            "description": "Professional LinkedIn bio page mobile interface design.",
+            "image": "/newImages/20.png"
+        },
+        {
+            "id": "2",
+            "name": "404 Page",
+            "description": "Creative, informative error page.",
+            "image": "/newImages/21.png"
+        },
+        {
+            "id": "2",
+            "name": "Calculator",
+            "description": "Minimalist, calculator interface.",
+            "image": "/newImages/22.png"
+        },
+        {
+            "id": "2",
+            "name": "Music site ",
+            "description": "Vibrant, engaging music site.",
+            "image": "/newImages/23.jpeg"
+        },
+        {
+            "id": "2",
+            "name": "Purchase receipt",
+            "description": "Clear, detailed purchase receipt.",
+            "image": "/newImages/24.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Card checkout",
+            "description": "Secure, streamlined card checkout.",
+            "image": "/newImages/25.png"
+        },
+        {
+            "id": "2",
+            "name": "Business website",
+            "description": "Professional, modern business site.",
+            "image": "/newImages/26.png"
+        },
+        {
+            "id": "2",
+            "name": "Seat reservation",
+            "description": "Easy, interactive seat selection.",
+            "image": "/newImages/27.png"
+        },
+        {
+            "id": "2",
+            "name": "Food app",
+            "description": "Engaging food delivery experience..",
+            "image": "/newImages/28.png"
+        },
+        {
+            "id": "2",
+            "name": "Business site",
+            "description": "Clear and intuitive navigation",
+            "image": "/newImages/29.png"
+        },
+        {
+            "id": "2",
+            "name": "Login UI",
+            "description": "Clean, user-friendly login screen",
+            "image": "/newImages/30.png"
+        },
+        {
+            "id": "2",
+            "name": "Profile page",
+            "description": "Intuitive profile interface.",
+            "image": "/newImages/31.png"
+        },
+        {
+            "id": "2",
+            "name": "Discovery page",
+            "description": "Interactive curated discovery feed",
+            "image": "/newImages/32.png"
+        },
+        {
+            "id": "2",
+            "name": "Brands page",
+            "description": "Stylish organized brand showcase.",
+            "image": "/newImages/33.png"
+        },
+        {
+            "id": "2",
+            "name": "Food ordering app",
+            "description": "Streamlined delicious food selection.",
+            "image": "/newImages/34.png"
+        },
+        {
+            "id": "2",
+            "name": "Electronics site",
+            "description": "Modern electronics shopping site",
+            "image": "/newImages/35.png"
+        },
+        {
+            "id": "2",
+            "name": "Bio interface",
+            "description": "Personalized, engaging bio interface.",
+            "image": "/newImages/36.png"
+        }
+
+
+    ]
+}
