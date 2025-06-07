@@ -88,10 +88,10 @@ const About = () => {
               and bring your ideas to the forefront of technology.
             </p>
             <a
-              href="assets/resume.pdf" target="_blank" rel="noopener noreferrer"
+              href="assets/resume_old.pdf" target="_blank" rel="noopener noreferrer"
               className="inline-flex justify-center items-center py-2.5 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900"
             >
-              Download CV
+              Previous CV
               <svg
                 className="w-3.5 h-3.5 ms-2 rtl:rotate-180"
                 aria-hidden="true"
